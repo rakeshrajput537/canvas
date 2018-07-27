@@ -1,0 +1,20 @@
+#Newcanvas{
+		background-color: #ff00ff;
+		border:2px solid grey;
+
+	}
+#Newcanvas1{
+		background-color: #ddd;
+		border:2px solid grey;
+
+	}
+	#Newcanvas2{
+		 background: linear-gradient(red, yellow);
+		border:2px solid grey;
+
+	}
+	#Newcanvas3{
+		 background: linear-gradient(red, blue);
+		border:2px solid blue;
+
+	}
