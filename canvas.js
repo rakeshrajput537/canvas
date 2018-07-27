@@ -60,7 +60,7 @@ var can3 = document.getElementById("Newcanvas3");
 	img.src="favicon.ico";
 
 
-
+var rakesh;
 
 
 
